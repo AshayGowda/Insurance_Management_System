@@ -64,7 +64,7 @@ INSERT INTO `customer` (`Customer_Num`, `First_Name`, `Middle_Name`, `Last_Name`
 (10003, 'Naveen', 'Polly', 'Shetty', 'M', '2018-11-06', '21/694, Chandu Apartment, Main Road, Hassan', 577453, 7015657758, 'Amar Polly Shetty', 'A', 'Yashoda Shetty', 'A', 'S', '');
 
 INSERT INTO `customer` (`Customer_Num`, `First_Name`, `Middle_Name`, `Last_Name`, `Gender`, `DOB`, `Address`, `Pincode`, `Contact_Number`, `Mother_Name`, `Mother_Status`, `Father_Name`, `Father_Status`, `Marital_status`, `Spouse`) VALUES
-(10004, 'Shraddha', 'Ramesh', 'Kamath', 'F', '2018-07-12', '56/123, Bhaskar Apartment, Subhash Road, Chikmagaluru', 577125, 7017657758, 'Ramesh Kamath', 'A', 'Myna Kamath', 'A', 'S', '');
+(10004, 'ABC', 'Ram', 'Xyz', 'F', '2018-07-12', '56/123, Bhaskar Apartment, Subhash Road, Chikmagaluru', 577125, 7017657758, 'Ramesh Kamath', 'A', 'Myna Kamath', 'A', 'S', '');
 
 -- --------------------------------------------------------
 
